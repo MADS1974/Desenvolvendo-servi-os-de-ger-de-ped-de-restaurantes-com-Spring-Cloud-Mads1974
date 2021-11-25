@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="EurekaserverApplication" type="JarApplication">
+    <option name="WORKING_DIRECTORY" value="C:\Users\deeja\Desktop\Desenvolvendo serviços de gerenciador de pedidos de restaurantes com Spring Cloud" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk-11.0.12" />
+    <method v="2" />
+  </configuration>
+</component>
